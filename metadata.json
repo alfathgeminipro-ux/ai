@@ -1,0 +1,6 @@
+{
+  "name": "MARVIS — AI Assistant Futuristik",
+  "description": "Asisten AI futuristik berbahasa Indonesia dengan antarmuka Liquid Glass, avatar hologram 3D Three.js, perintah suara wake word, tema dinamis, dan pencarian jurnal ilmiah 2020–2026.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
